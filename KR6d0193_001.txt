@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:36.385202
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 略法華三昧補助儀
 #+PROPERTY: CBETA_ID T46n1943
 #+PROPERTY: ID KR6d0193
