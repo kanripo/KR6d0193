@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:36.385202
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:51
 #+TITLE: 略法華三昧補助儀
 #+PROPERTY: CBETA_ID T46n1943
 #+PROPERTY: ID KR6d0193
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 46, No. 1943
 #+PROPERTY: VOL 46
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0193_T_001-0956c> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1943[cf.Nos.1941,1942,1944]¶
-
- 略法華三昧補助儀并序¶
+No. 1943 [cf. Nos. 1941, 1942, 1944]¶
+略法華三昧補助儀并序¶
 ¶
 
 (由此懺法隨事觀想。並指法華三昧補助儀文。今恐各行無處尋。檢翻成所闕故。從要急略彼辭句。附此文¶
